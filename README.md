@@ -5,5 +5,11 @@
 𝗔𝘁 𝗚𝗼𝗼𝗴𝗹𝗲'𝘀 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝘀𝘁𝗮𝗯𝗶𝗹𝗶𝘀𝗮𝘁𝗶𝗼𝗻 𝗽𝗮𝗿𝘁𝘆 𝘁𝗵𝗮𝘁 𝗜 𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝘄𝗶𝘁𝗵 𝗺𝘆 𝗳𝗿𝗶𝗲𝗻𝗱𝘀, 𝗜 𝗻𝗼𝘁𝗶𝗰𝗲𝗱 𝗺𝘆 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 𝗶𝗻 𝘁𝗵𝗶𝘀 𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸.<br>
 𝗜 𝗸𝗲𝗲𝗽 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗵𝗲𝗹𝗽 𝗼𝗳 𝗺𝗲𝗻𝘁𝗼𝗿𝗶𝗻𝗴, 𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝘁𝗿𝗼𝘂𝗯𝗹𝗲𝘀𝗵𝗼𝗼𝘁𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝟱𝟰 𝗼𝗳 𝗺𝘆 𝗳𝗿𝗶𝗲𝗻𝗱𝘀.<br>
 
+<h1>𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:</h1>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ihsuncloud&show_icons=true&theme=transparent&count_private=true"/><br/> 
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsuncloud&hide_progress=true&theme=transparent"/><br/> 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsuncloud&hide_progress=true&theme=transparent"/>
+---
+[![](https://visitcount.itsvg.in/api?id=ihsuncloud&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+
